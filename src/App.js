@@ -6,12 +6,18 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header"></header>
+        <header className="App-header">
+          <h1>Dictionary</h1>
+        </header>
         <main>
           <Dictionary />
         </main>
 
-        <footer className="App-footer">Coded by Gemma Allwright</footer>
+        <footer className="App-footer">
+          <a href="https://github.com/allwrightgemma/dictionary-project">
+            Coded by Gemma Allwright
+          </a>
+        </footer>
       </div>
     </div>
   );
