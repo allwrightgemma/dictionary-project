@@ -1,5 +1,5 @@
 body {
-  background: #fff8f5;
+  background: #f5f5ff;
 }
 
 a {
@@ -8,6 +8,7 @@ a {
 
 .App {
   margin: 30px auto;
+  max-width: 750px;
 }
 
 .App-header h1 {
