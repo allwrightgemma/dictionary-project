@@ -1,9 +1,15 @@
 body {
-  background: #f5f5ff;
+  background: #f4f6fd;
 }
 
 a {
-  color: #4b5668;
+  color: #017072;
+  text-decoration: none;
+  transition: all 200ms ease-in-out;
+}
+
+a:hover {
+  color: #002c2d;
 }
 
 .App {
