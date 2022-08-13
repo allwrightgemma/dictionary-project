@@ -1,9 +1,9 @@
 body {
-  background: #f4f6fd;
+  background: #cff1ee;
 }
 
 a {
-  color: #017072;
+  color: #2f66fe;
   text-decoration: none;
   transition: all 200ms ease-in-out;
 }
@@ -19,6 +19,12 @@ a:hover {
 
 .App-header h1 {
   text-align: center;
+}
+
+.App-header .logo {
+  max-width: 150px;
+  display: block;
+  margin: 0 auto;
 }
 
 .App-footer {
