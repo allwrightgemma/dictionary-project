@@ -1,20 +1,20 @@
 .Phonetics {
-  height: 60px;
+	height: 60px;
 }
 
 .Phonetics i {
-  font-size: 18px;
-  margin-right: 10px;
-  color: #2f66fe;
-  cursor: pointer;
-  transition: all 200ms ease-in-out;
+	font-size: 18px;
+	margin-right: 10px;
+	color: #001163;
+	cursor: pointer;
+	transition: all 200ms ease-in-out;
 }
 
 .Phonetics i:hover {
-  background-color: #fff;
-  color: #0e2362;
+	background-color: #fff;
+	color: #898eb0;
 }
 
 .Phonetics .text {
-  opacity: 0.6;
+	opacity: 0.6;
 }

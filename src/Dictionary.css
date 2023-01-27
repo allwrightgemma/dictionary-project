@@ -1,30 +1,30 @@
 .Dictionary {
-  margin: 30px auto;
+	margin: 30px auto;
 }
 
 .Dictionary h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 20px;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
 }
 
 .Dictionary section {
-  background: #fcfffe;
-  padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0px 3px 2px rgba(186, 183, 183, 0.1);
-  margin: 20px 0px;
+	background: #fcfffe;
+	padding: 30px;
+	border-radius: 8px;
+	box-shadow: 0px 5px 5px rgba(75, 74, 74, 0.1);
+	margin: 20px 0px;
 }
 
 .Dictionary input {
-  width: 100%;
-  padding: 6px 4px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  color: #333;
+	width: 100%;
+	padding: 6px 12px;
+	border: 2px solid #898eb0;
+	border-radius: 50px;
+	color: #001163;
 }
 
 .Dictionary .hint {
-  font-size: 11px;
-  margin-top: 5px;
+	font-size: 11px;
+	margin-top: 5px;
 }
